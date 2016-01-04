@@ -58,17 +58,6 @@ var model = {
     Form = f.Form
 
 var xform = React.createClass({
-    getInitialState() {
-        return {
-            value: {
-                name: 'Giulio',
-                age: '18'
-            }
-        };
-    },
-    onChange(value) {
-        this.setState({value});
-    },
     render: function() {
         return (
             <View style={styles.container}>
@@ -81,8 +70,8 @@ var xform = React.createClass({
     },
     onPress : function() {
         var value = this.refs.form.getValue();
-        if (value) { // if validation fails, value will be null
-            alert(JSON.stringify(value)); // value here is an instance of Person
+        if (value) { 
+            alert(JSON.stringify(value)); 
         }
     },
 });
