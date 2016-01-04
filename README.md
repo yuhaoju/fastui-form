@@ -10,7 +10,7 @@ npm install fastui-form
 ```
 
 ## Example
-```
+```javascript
 'use strict';
 
 var React = require('react-native');
