@@ -1,0 +1,27 @@
+{
+  "name": "fastui-form",
+  "version": "0.0.2",
+  "description": "基于React Native的form表单",
+  "main": "index.js",
+  "scripts": {
+    "test": "\"echo \\\"Error: no test specified\\\" && exit 1\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/roscoe054/fastui-form.git"
+  },
+  "keywords": [
+    "form",
+    "react native"
+  ],
+  "author": "roscoe054",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/roscoe054/fastui-form/issues"
+  },
+  "homepage": "https://github.com/roscoe054/fastui-form",
+  "dependencies": {
+    "extend": "^3.0.0",
+    "react-native-spinner": "0.0.3"
+  }
+}
