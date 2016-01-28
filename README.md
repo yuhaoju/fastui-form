@@ -1,6 +1,6 @@
 # fastui-form
 
-A form component built with react native . **The components list as seen in [fastui](https://github.com/RubyLouvre/fastui).**
+A form component built with react native . **All components as seen in [fastui](https://github.com/RubyLouvre/fastui).**
 
 ![alt tag](https://raw.githubusercontent.com/roscoe054/fastui-form/master/demo.gif)
 
